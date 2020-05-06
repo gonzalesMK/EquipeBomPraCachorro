@@ -15,3 +15,5 @@ Esperar um sensor de presença ler a presença da bolinha na posição necessár
 2. A bateria da máquina deve durar pelo menos 3 horas - Murilo
 3. O dispositivo deve ser capaz de lançar uma bola a cada 5 segundos. - Leonardo
 4. Pode jogar a bola com velocidade variável - Allan
+
+Projeto desenvolvido para a discplina de Sistemas Embarcados (SEM0544, 1o semestre de 2020) do Curso de Engenharia Mecatrônica EESC-USP.
