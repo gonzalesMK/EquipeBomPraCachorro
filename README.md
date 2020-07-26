@@ -36,6 +36,13 @@ Nosso projeto consiste em desenvolver um sistema embarcado com um a dois graus (
 3. O dispositivo deve ser capaz de lançar uma bola a cada 5 segundos.
 4. Pode jogar a bola com velocidade variável 
 
+### Possíveis Soluções para Requisitos
+1. O sensor de presença terá como papel apenas perceber a existencia da bola, que será lançada, a contagem de tempo para o lançamento será feita através do código.
+2. O acionamento do lançamento será feito pelo motor DC, o objetivo é lançar a bola dependendo do setup de ângulo colocado no lançador.
+3. Planeja-se manufaturar todo o conjunto com alumínio, como colocado nos materiais, as chapas e partes não precisarão ser robustas, já que o conjunto não tem que aguentar esforços significativos
+4. O dimensionamento será feito com medidas aproximadas com objetivo de lançar uma bola de tênis, sem foco na possibilidade de diferentes tamanhos de bolas para serem lançadas.
+
 Projeto desenvolvido para a discplina de Sistemas Embarcados (SEM0544, 1o semestre de 2020) do Curso de Engenharia Mecatrônica EESC-USP.
+
 
 
