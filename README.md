@@ -6,15 +6,15 @@ Nosso projeto consiste em desenvolver um sistema embarcado com um a dois graus (
 
 
 ### Integrantes
--Allan Caetano Vaz Silva,
--Leonardo Domingues Toresin,
--Murilo Vicentin Giordano,
--Juliano Decico Negri
+- Allan Caetano Vaz Silva,
+- Leonardo Domingues Toresin,
+- Murilo Vicentin Giordano,
+- Juliano Decico Negri
 
 
 ### Materiais
-- 1 motor DC.
-- Sensor de presença.
+- 1 motor DC
+- Sensor de presença
 - Beagle black Bone
 - Braço de Alumínio
 - Meia esfera de Alumínio
