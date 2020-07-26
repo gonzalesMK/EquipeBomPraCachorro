@@ -5,9 +5,9 @@ Design of a ball launcher for pets.
 Nosso projeto consiste em desenvolver um sistema embarcado com um a dois graus (dependendo do modelo) de liberdade que deverá esperar um sensor presencial ler a presença da bolinha na posição necessária. Alguns instantes depois, um motor DC deverá efetuar uma revolução (ou um pré determinado valor de ângulo em graus) para lançar a bolinha a uma distância dependente do valor do ângulo de lançamento. Após isso, o eixo do motor deverá retornar para a posição neutra e aguardar um novo reposicionamento da bolinha. Esse projeto será desenvolvido com o propósito de obter um conhecimento prático na discplina de Sistemas Embarcados do Curso de Engenharia Mecatrônica.
 
 ### Integrantes
-Allan Caetano Vaz Silva
-Leonardo Domingues Toresin
-Murilo Vicentin Giordano
+Allan Caetano Vaz Silva,
+Leonardo Domingues Toresin,
+Murilo Vicentin Giordano,
 Juliano Decico Negri
 
 
