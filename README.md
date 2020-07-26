@@ -6,7 +6,7 @@ Esperar um sensor de presença ler a presença da bolinha na posição necessár
 
 ### Requisitos Funcionais 
 1. O sistema deve reagir a um sinal de um sensor e efetuar o lançamento da bolinha - Murilo
-2. O sistema deve ter um mecanismo de inserção da bolinha - Leonardo  
+2. O sistema deve ter um mecanismo de inserção da bolinha que será lançada - Leonardo  
 3. O cachorro deve ser capaz de recolocar a bolinha no mecanismo sem necessidade de intervenção - Allan 
 4. O mecanismo deve ser portátil e não necessitar ligação direta na energia para funcionar - Juliano
 
