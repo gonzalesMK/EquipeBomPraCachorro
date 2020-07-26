@@ -13,8 +13,8 @@ Nosso projeto consiste em desenvolver um sistema embarcado com um a dois graus (
 
 
 ### Materiais
-- 1 motor DC
-- Sensor de presença
+- 1 motor DC.
+- Sensor de presença.
 - Beagle black Bone
 - Braço de Alumínio
 - Meia esfera de Alumínio
