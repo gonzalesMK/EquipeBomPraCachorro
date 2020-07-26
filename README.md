@@ -17,4 +17,4 @@ Esperar um sensor de presença ler a presença da bolinha na posição necessár
 4. Pode jogar a bola com velocidade variável - Allan
 
 Projeto desenvolvido para a discplina de Sistemas Embarcados (SEM0544, 1o semestre de 2020) do Curso de Engenharia Mecatrônica EESC-USP.
-Colaboração: Allan C. Vaz
+
